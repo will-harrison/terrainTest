@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/FlatBlock_1.obj-7470b9fc66f5ff70188f4b75895b6462.mesh"
+
+[deps]
+
+files=[ "res://.import/FlatBlock_1.obj-7470b9fc66f5ff70188f4b75895b6462.mesh" ]
+
+source_file="res://terrain/FlatBlock_1.obj"
+dest_files=[ "res://.import/FlatBlock_1.obj-7470b9fc66f5ff70188f4b75895b6462.mesh", "res://.import/FlatBlock_1.obj-7470b9fc66f5ff70188f4b75895b6462.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

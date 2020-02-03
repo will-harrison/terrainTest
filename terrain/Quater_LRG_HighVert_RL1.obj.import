@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Quater_LRG_HighVert_RL1.obj-d81209e90ff9f5371ef696dca3da8f1a.mesh"
+
+[deps]
+
+files=[ "res://.import/Quater_LRG_HighVert_RL1.obj-d81209e90ff9f5371ef696dca3da8f1a.mesh" ]
+
+source_file="res://terrain/Quater_LRG_HighVert_RL1.obj"
+dest_files=[ "res://.import/Quater_LRG_HighVert_RL1.obj-d81209e90ff9f5371ef696dca3da8f1a.mesh", "res://.import/Quater_LRG_HighVert_RL1.obj-d81209e90ff9f5371ef696dca3da8f1a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

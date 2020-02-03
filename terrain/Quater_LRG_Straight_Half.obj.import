@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Quater_LRG_Straight_Half.obj-abb4a90c99a15b24d1f5f7756a73d303.mesh"
+
+[deps]
+
+files=[ "res://.import/Quater_LRG_Straight_Half.obj-abb4a90c99a15b24d1f5f7756a73d303.mesh" ]
+
+source_file="res://terrain/Quater_LRG_Straight_Half.obj"
+dest_files=[ "res://.import/Quater_LRG_Straight_Half.obj-abb4a90c99a15b24d1f5f7756a73d303.mesh", "res://.import/Quater_LRG_Straight_Half.obj-abb4a90c99a15b24d1f5f7756a73d303.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Quater_SML_Straight.obj-2df2a53c8e17864c9d2b1ee110675e1d.mesh"
+
+[deps]
+
+files=[ "res://.import/Quater_SML_Straight.obj-2df2a53c8e17864c9d2b1ee110675e1d.mesh" ]
+
+source_file="res://terrain/Quater_SML_Straight.obj"
+dest_files=[ "res://.import/Quater_SML_Straight.obj-2df2a53c8e17864c9d2b1ee110675e1d.mesh", "res://.import/Quater_SML_Straight.obj-2df2a53c8e17864c9d2b1ee110675e1d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

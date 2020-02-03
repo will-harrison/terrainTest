@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Ramp_Half_1.obj-f75e44d1617c361f98cf766fcd31067d.mesh"
+
+[deps]
+
+files=[ "res://.import/Ramp_Half_1.obj-f75e44d1617c361f98cf766fcd31067d.mesh" ]
+
+source_file="res://terrain/Ramp_Half_1.obj"
+dest_files=[ "res://.import/Ramp_Half_1.obj-f75e44d1617c361f98cf766fcd31067d.mesh", "res://.import/Ramp_Half_1.obj-f75e44d1617c361f98cf766fcd31067d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

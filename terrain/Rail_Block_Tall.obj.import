@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Rail_Block_Tall.obj-e94fca07fe9906f68dd175dfc6bed836.mesh"
+
+[deps]
+
+files=[ "res://.import/Rail_Block_Tall.obj-e94fca07fe9906f68dd175dfc6bed836.mesh" ]
+
+source_file="res://terrain/Rail_Block_Tall.obj"
+dest_files=[ "res://.import/Rail_Block_Tall.obj-e94fca07fe9906f68dd175dfc6bed836.mesh", "res://.import/Rail_Block_Tall.obj-e94fca07fe9906f68dd175dfc6bed836.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

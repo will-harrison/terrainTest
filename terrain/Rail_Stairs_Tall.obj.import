@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Rail_Stairs_Tall.obj-05c60f40119719669cb4c4f31d2023a6.mesh"
+
+[deps]
+
+files=[ "res://.import/Rail_Stairs_Tall.obj-05c60f40119719669cb4c4f31d2023a6.mesh" ]
+
+source_file="res://terrain/Rail_Stairs_Tall.obj"
+dest_files=[ "res://.import/Rail_Stairs_Tall.obj-05c60f40119719669cb4c4f31d2023a6.mesh", "res://.import/Rail_Stairs_Tall.obj-05c60f40119719669cb4c4f31d2023a6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

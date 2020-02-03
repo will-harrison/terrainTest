@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Bat.obj-d54999b3795f0ab229e1582e2117d867.mesh"
+
+[deps]
+
+files=[ "res://.import/Bat.obj-d54999b3795f0ab229e1582e2117d867.mesh" ]
+
+source_file="res://farm/Bat.obj"
+dest_files=[ "res://.import/Bat.obj-d54999b3795f0ab229e1582e2117d867.mesh", "res://.import/Bat.obj-d54999b3795f0ab229e1582e2117d867.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

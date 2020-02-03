@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Rail_SML_StairCon.obj-1f69c1faf1cb4fe6cde36515e40c5fbd.mesh"
+
+[deps]
+
+files=[ "res://.import/Rail_SML_StairCon.obj-1f69c1faf1cb4fe6cde36515e40c5fbd.mesh" ]
+
+source_file="res://terrain/Rail_SML_StairCon.obj"
+dest_files=[ "res://.import/Rail_SML_StairCon.obj-1f69c1faf1cb4fe6cde36515e40c5fbd.mesh", "res://.import/Rail_SML_StairCon.obj-1f69c1faf1cb4fe6cde36515e40c5fbd.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

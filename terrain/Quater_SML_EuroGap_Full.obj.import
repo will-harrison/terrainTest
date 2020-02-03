@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Quater_SML_EuroGap_Full.obj-180dc2a87801f57ae3378c6d4d88378c.mesh"
+
+[deps]
+
+files=[ "res://.import/Quater_SML_EuroGap_Full.obj-180dc2a87801f57ae3378c6d4d88378c.mesh" ]
+
+source_file="res://terrain/Quater_SML_EuroGap_Full.obj"
+dest_files=[ "res://.import/Quater_SML_EuroGap_Full.obj-180dc2a87801f57ae3378c6d4d88378c.mesh", "res://.import/Quater_SML_EuroGap_Full.obj-180dc2a87801f57ae3378c6d4d88378c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

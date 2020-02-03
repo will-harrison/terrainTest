@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Ledge_Stairs_SML_L.obj-0fadae257c60f9744113e781f5a31bec.mesh"
+
+[deps]
+
+files=[ "res://.import/Ledge_Stairs_SML_L.obj-0fadae257c60f9744113e781f5a31bec.mesh" ]
+
+source_file="res://terrain/Ledge_Stairs_SML_L.obj"
+dest_files=[ "res://.import/Ledge_Stairs_SML_L.obj-0fadae257c60f9744113e781f5a31bec.mesh", "res://.import/Ledge_Stairs_SML_L.obj-0fadae257c60f9744113e781f5a31bec.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

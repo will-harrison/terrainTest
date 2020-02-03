@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Stairs_Half.obj-8878cb3a3d3f7d45994aeaffb8213da6.mesh"
+
+[deps]
+
+files=[ "res://.import/Stairs_Half.obj-8878cb3a3d3f7d45994aeaffb8213da6.mesh" ]
+
+source_file="res://terrain/Stairs_Half.obj"
+dest_files=[ "res://.import/Stairs_Half.obj-8878cb3a3d3f7d45994aeaffb8213da6.mesh", "res://.import/Stairs_Half.obj-8878cb3a3d3f7d45994aeaffb8213da6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ManPad_CNR_3Grind.obj-f6bafaacbb8589f64b6ff3961d4ca8fc.mesh"
+
+[deps]
+
+files=[ "res://.import/ManPad_CNR_3Grind.obj-f6bafaacbb8589f64b6ff3961d4ca8fc.mesh" ]
+
+source_file="res://terrain/ManPad_CNR_3Grind.obj"
+dest_files=[ "res://.import/ManPad_CNR_3Grind.obj-f6bafaacbb8589f64b6ff3961d4ca8fc.mesh", "res://.import/ManPad_CNR_3Grind.obj-f6bafaacbb8589f64b6ff3961d4ca8fc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Rail_LRG.obj-4455aef91c245daf349e8d4ba4ffd981.mesh"
+
+[deps]
+
+files=[ "res://.import/Rail_LRG.obj-4455aef91c245daf349e8d4ba4ffd981.mesh" ]
+
+source_file="res://terrain/Rail_LRG.obj"
+dest_files=[ "res://.import/Rail_LRG.obj-4455aef91c245daf349e8d4ba4ffd981.mesh", "res://.import/Rail_LRG.obj-4455aef91c245daf349e8d4ba4ffd981.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

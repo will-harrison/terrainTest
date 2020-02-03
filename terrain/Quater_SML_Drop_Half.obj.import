@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Quater_SML_Drop_Half.obj-e2e43b59304b4edc80ed5dad56887b98.mesh"
+
+[deps]
+
+files=[ "res://.import/Quater_SML_Drop_Half.obj-e2e43b59304b4edc80ed5dad56887b98.mesh" ]
+
+source_file="res://terrain/Quater_SML_Drop_Half.obj"
+dest_files=[ "res://.import/Quater_SML_Drop_Half.obj-e2e43b59304b4edc80ed5dad56887b98.mesh", "res://.import/Quater_SML_Drop_Half.obj-e2e43b59304b4edc80ed5dad56887b98.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

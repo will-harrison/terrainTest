@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ManPad_Half_4_OneGrind.obj-6ff06bb23527656f3b74a02af9e89d9c.mesh"
+
+[deps]
+
+files=[ "res://.import/ManPad_Half_4_OneGrind.obj-6ff06bb23527656f3b74a02af9e89d9c.mesh" ]
+
+source_file="res://terrain/ManPad_Half_4_OneGrind.obj"
+dest_files=[ "res://.import/ManPad_Half_4_OneGrind.obj-6ff06bb23527656f3b74a02af9e89d9c.mesh", "res://.import/ManPad_Half_4_OneGrind.obj-6ff06bb23527656f3b74a02af9e89d9c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

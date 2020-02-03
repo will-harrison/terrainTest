@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ManPad_1.obj-37e8235dad463c3c63a51f5785ae956b.mesh"
+
+[deps]
+
+files=[ "res://.import/ManPad_1.obj-37e8235dad463c3c63a51f5785ae956b.mesh" ]
+
+source_file="res://terrain/ManPad_1.obj"
+dest_files=[ "res://.import/ManPad_1.obj-37e8235dad463c3c63a51f5785ae956b.mesh", "res://.import/ManPad_1.obj-37e8235dad463c3c63a51f5785ae956b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

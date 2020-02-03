@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Pyramid_FourSides.obj-9f7b8ea9342b78f51fef98f5a064317c.mesh"
+
+[deps]
+
+files=[ "res://.import/Pyramid_FourSides.obj-9f7b8ea9342b78f51fef98f5a064317c.mesh" ]
+
+source_file="res://terrain/Pyramid_FourSides.obj"
+dest_files=[ "res://.import/Pyramid_FourSides.obj-9f7b8ea9342b78f51fef98f5a064317c.mesh", "res://.import/Pyramid_FourSides.obj-9f7b8ea9342b78f51fef98f5a064317c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

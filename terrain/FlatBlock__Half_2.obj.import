@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/FlatBlock__Half_2.obj-704c2fbab83b3140236a92e933641762.mesh"
+
+[deps]
+
+files=[ "res://.import/FlatBlock__Half_2.obj-704c2fbab83b3140236a92e933641762.mesh" ]
+
+source_file="res://terrain/FlatBlock__Half_2.obj"
+dest_files=[ "res://.import/FlatBlock__Half_2.obj-704c2fbab83b3140236a92e933641762.mesh", "res://.import/FlatBlock__Half_2.obj-704c2fbab83b3140236a92e933641762.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

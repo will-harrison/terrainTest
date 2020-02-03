@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Ledge_Ramp_SML_L.obj-11f66783a4d07a802e188993b456390e.mesh"
+
+[deps]
+
+files=[ "res://.import/Ledge_Ramp_SML_L.obj-11f66783a4d07a802e188993b456390e.mesh" ]
+
+source_file="res://terrain/Ledge_Ramp_SML_L.obj"
+dest_files=[ "res://.import/Ledge_Ramp_SML_L.obj-11f66783a4d07a802e188993b456390e.mesh", "res://.import/Ledge_Ramp_SML_L.obj-11f66783a4d07a802e188993b456390e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
